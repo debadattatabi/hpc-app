@@ -1,0 +1,7 @@
+{
+  "mongo_url": "mongodb://localhost/",
+  "mongo_dbs": {
+    "proj1":"hpc_demo"
+  },
+  "port": 8080
+}
